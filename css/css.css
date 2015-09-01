@@ -1,0 +1,56 @@
+
+
+.reveal h1 {
+	color:#8F5755;
+	text-transform: none;
+}
+
+.reveal h2{
+	color:#DBC8B9;
+	text-transform: none;
+}
+
+body  {
+  background-color: #D95838;
+ }
+
+.reveal p {
+  color:; }
+
+.reveal .p2{
+	text-align: right;
+}
+
+.reveal .image img{
+	border: 0px;
+    box-shadow: 0px 0px 0px;
+    background: none;
+
+}
+
+.reveal .linkn {
+	color:#DBC8B9;
+}
+
+
+.reveal .slides div.lesson{
+	position:absolute;
+	top:0px;
+	left:0px;
+	margin:0;
+	clear:both;
+}
+
+.reveal .slides div.text-lesson{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	margin:0;
+}
+
+
+.reveal .slide {
+	border:100px solid blue;
+
+}
+
