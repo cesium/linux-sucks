@@ -33,24 +33,30 @@ body  {
 }
 
 
-.reveal .slides div.lesson{
+.reveal .slides div.top-left{
 	position:absolute;
-	top:0px;
-	left:0px;
 	margin:0;
 	clear:both;
 }
 
-.reveal .slides div.text-lesson{
+.reveal .slides div.bottom-right{
 	position: absolute;
-	bottom: 0px;
+	bottom: -1500%;
 	right: 0px;
 	margin:0;
 }
 
 
-.reveal .slide {
-	border:100px solid blue;
-
+.reveal .slides .titulo{
+	position:absolute;
+	top:-35%;
+	left:0px;
+	margin:0;
+	clear:both;
 }
 
+
+.reveal .slides.text{
+	position: absolute;
+	margin:0;
+}

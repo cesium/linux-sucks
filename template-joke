@@ -37,15 +37,15 @@
 
 		<div class="reveal">
 
-			<!-- Cover-->
+			
 			<div class="slides">
 			<!--lesson-->
 				<section>
-					<div class="lesson"><h2>1º Lesson</h2> </div>
-					<div class="bottom-right"><h1> It's really ugly!!</h1></div>
-					
 
+					<div class="top-left"><h2>1º Lesson</h2> </div>
+					<div class="text"><h1> It's really ugly!!</h1></div>
 				</section>
+
 
 
 			
