@@ -37,14 +37,21 @@
 
 		<div class="reveal">
 
-			<!-- Cover-->
+			
 			<div class="slides">
+			<!--lesson-->
 				<section>
-					<h1>Linux Sucks</h1>
-					<p> A User Friendly </p>
-					<h2> <em>Linux Installation Party</em> </h2>
 
+					<h1 class="titulo">List titulo</h1>
+					<ul class="lista"> 
+
+					<li>item 1</li>
+					<li>item 2</li>
+
+					 </ul>
 				</section>
+
+
 
 			
 			

@@ -60,3 +60,25 @@ body  {
 	position: absolute;
 	margin:0;
 }
+
+.reveal .slides .lista{
+	position:absolute;
+	bottom:-800%;
+	left:5%;
+	margin:0;
+}
+
+.reveal .slides .user{
+	border:5px solid #DBC8B9;
+	height: 0px;
+	display:flex;
+}
+
+.reveal .slides .big{
+	position: absolute;
+	width: 70%;
+	height: auto;
+	margin:0px;
+	right:0px;
+
+}

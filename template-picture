@@ -37,14 +37,21 @@
 
 		<div class="reveal">
 
-			<!-- Cover-->
+			
 			<div class="slides">
+			<!--lesson-->
 				<section>
-					<h1>Linux Sucks</h1>
-					<p> A User Friendly </p>
-					<h2> <em>Linux Installation Party</em> </h2>
 
+					<div class="top-left">
+						<p><h2>LInux</h2></p>
+						<p><h2>year</h2></p>
+	    			</div>
+
+	    			<div class="big"><img src="img/stagering.png"/></div>
+					
 				</section>
+
+
 
 			
 			
