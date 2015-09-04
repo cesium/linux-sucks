@@ -37,13 +37,15 @@ body  {
 	position:absolute;
 	margin:0;
 	clear:both;
+	text-align: left;
 }
 
 .reveal .slides div.bottom-right{
 	position: absolute;
-	bottom: -1500%;
+	bottom: -1300%;
 	right: 0px;
 	margin:0;
+	text-align: right;
 }
 
 
@@ -53,6 +55,7 @@ body  {
 	left:0px;
 	margin:0;
 	clear:both;
+
 }
 
 
@@ -63,9 +66,11 @@ body  {
 
 .reveal .slides .lista{
 	position:absolute;
-	bottom:-800%;
+	bottom:-1200%;
 	left:5%;
 	margin:0;
+	font-size: 80%;
+	color:#DBC8B9;
 }
 
 .reveal .slides .user{
@@ -76,9 +81,25 @@ body  {
 
 .reveal .slides .big{
 	position: absolute;
-	width: 70%;
+	width: 80%;
 	height: auto;
 	margin:0px;
-	right:0px;
+	right:-10%;
 
+}
+
+.reveal .slides .image-text{
+	position:absolute;
+	margin:0;
+	clear:both;
+	left: -15%;
+}
+
+.reveal .slides .black{
+	color:black;
+	font-family:Courier;
+}
+
+.reveal .slides strip{
+	text-decoration: line-through;
 }
