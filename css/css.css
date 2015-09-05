@@ -81,10 +81,11 @@ body  {
 
 .reveal .slides .big{
 	position: absolute;
-	width: 80%;
+	width: 90%;
 	height: auto;
 	margin:0px;
 	right:-10%;
+	border:0px;
 
 }
 
@@ -103,3 +104,24 @@ body  {
 .reveal .slides strip{
 	text-decoration: line-through;
 }
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+
+  font-family: Arial;
+ }
+
+ .reveal #center{
+ 	text-align:center;
+ 	width:140%;
+ 	top:-200%;
+ 	left:-20%;
+ }
+
+ .reveal .bottom{
+ 	position: absolute;
+	bottom: -1000%;
+	left: -15%;
+	margin:0;
+	text-align: left
+
+ }
