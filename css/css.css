@@ -1,7 +1,10 @@
 
 
+
+
+
 .reveal h1 {
-	color:#8F5755;
+	color:#584140;
 	text-transform: none;
 }
 
@@ -107,7 +110,7 @@ body  {
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
 
-  font-family: Arial;
+  font-family: Open Sans;
  }
 
  .reveal #center{
@@ -124,4 +127,8 @@ body  {
 	margin:0;
 	text-align: left
 
+ }
+
+ .reveal sup{
+ 	font-size:30px;
  }
