@@ -1,0 +1,134 @@
+
+
+
+
+
+.reveal h1 {
+	color:#584140;
+	text-transform: none;
+}
+
+.reveal h2{
+	color:#DBC8B9;
+	text-transform: none;
+}
+
+body  {
+  background-color: #D95838;
+ }
+
+.reveal p {
+  color:; }
+
+.reveal .p2{
+	text-align: right;
+}
+
+.reveal .image img{
+	border: 0px;
+    box-shadow: 0px 0px 0px;
+    background: none;
+
+}
+
+.reveal .linkn {
+	color:#DBC8B9;
+}
+
+
+.reveal .slides div.top-left{
+	position:absolute;
+	margin:0;
+	clear:both;
+	text-align: left;
+}
+
+.reveal .slides div.bottom-right{
+	position: absolute;
+	bottom: -1300%;
+	right: 0px;
+	margin:0;
+	text-align: right;
+}
+
+
+.reveal .slides .titulo{
+	position:absolute;
+	top:-35%;
+	left:0px;
+	margin:0;
+	clear:both;
+
+}
+
+
+.reveal .slides.text{
+	position: absolute;
+	margin:0;
+}
+
+.reveal .slides .lista{
+	position:absolute;
+	bottom:-1200%;
+	left:5%;
+	margin:0;
+	font-size: 80%;
+	color:#DBC8B9;
+}
+
+.reveal .slides .user{
+	border:5px solid #DBC8B9;
+	height: 0px;
+	display:flex;
+}
+
+.reveal .slides .big{
+	position: absolute;
+	width: 90%;
+	height: auto;
+	margin:0px;
+	right:-10%;
+	border:0px;
+
+}
+
+.reveal .slides .image-text{
+	position:absolute;
+	margin:0;
+	clear:both;
+	left: -15%;
+}
+
+.reveal .slides .black{
+	color:black;
+	font-family:Courier;
+}
+
+.reveal .slides strip{
+	text-decoration: line-through;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+
+  font-family: Open Sans;
+ }
+
+ .reveal #center{
+ 	text-align:center;
+ 	width:140%;
+ 	top:-200%;
+ 	left:-20%;
+ }
+
+ .reveal .bottom{
+ 	position: absolute;
+	bottom: -1000%;
+	left: -15%;
+	margin:0;
+	text-align: left
+
+ }
+
+ .reveal sup{
+ 	font-size:30px;
+ }
